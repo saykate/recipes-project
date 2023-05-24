@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #56A3A6;
+    color: #484538;
+    font-family: Monaco, sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #e9c46a;
+}
+
+a:hover {
+    color: #264653;
+}
+
